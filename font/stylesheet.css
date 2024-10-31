@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Winslow Book';
+    src: url('WinslowBook-Black.eot');
+    src: local('Winslow Book Black'), local('WinslowBook-Black'),
+        url('WinslowBook-Black.eot?#iefix') format('embedded-opentype'),
+        url('WinslowBook-Black.woff2') format('woff2'),
+        url('WinslowBook-Black.woff') format('woff'),
+        url('WinslowBook-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Winslow Book';
+    src: url('WinslowBook-Bold.eot');
+    src: local('Winslow Book Bold'), local('WinslowBook-Bold'),
+        url('WinslowBook-Bold.eot?#iefix') format('embedded-opentype'),
+        url('WinslowBook-Bold.woff2') format('woff2'),
+        url('WinslowBook-Bold.woff') format('woff'),
+        url('WinslowBook-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Winslow Book Hairline';
+    src: url('WinslowBook-HairlineItalic.eot');
+    src: local('Winslow Book Hairline Italic'), local('WinslowBook-HairlineItalic'),
+        url('WinslowBook-HairlineItalic.eot?#iefix') format('embedded-opentype'),
+        url('WinslowBook-HairlineItalic.woff2') format('woff2'),
+        url('WinslowBook-HairlineItalic.woff') format('woff'),
+        url('WinslowBook-HairlineItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winslow Book';
+    src: url('WinslowBook-SemiBold.eot');
+    src: local('Winslow Book SemiBold'), local('WinslowBook-SemiBold'),
+        url('WinslowBook-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('WinslowBook-SemiBold.woff2') format('woff2'),
+        url('WinslowBook-SemiBold.woff') format('woff'),
+        url('WinslowBook-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Winslow Book';
+    src: url('WinslowBook-SemiBoldItalic.eot');
+    src: local('Winslow Book SemiBold Italic'), local('WinslowBook-SemiBoldItalic'),
+        url('WinslowBook-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('WinslowBook-SemiBoldItalic.woff2') format('woff2'),
+        url('WinslowBook-SemiBoldItalic.woff') format('woff'),
+        url('WinslowBook-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winslow Book Hairline';
+    src: url('WinslowBook-Hairline.eot');
+    src: local('Winslow Book Hairline'), local('WinslowBook-Hairline'),
+        url('WinslowBook-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('WinslowBook-Hairline.woff2') format('woff2'),
+        url('WinslowBook-Hairline.woff') format('woff'),
+        url('WinslowBook-Hairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Winslow Book';
+    src: url('WinslowBook-RegularItalic.eot');
+    src: local('Winslow Book Regular Italic'), local('WinslowBook-RegularItalic'),
+        url('WinslowBook-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('WinslowBook-RegularItalic.woff2') format('woff2'),
+        url('WinslowBook-RegularItalic.woff') format('woff'),
+        url('WinslowBook-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winslow Book';
+    src: url('WinslowBook-Regular.eot');
+    src: local('Winslow Book Regular'), local('WinslowBook-Regular'),
+        url('WinslowBook-Regular.eot?#iefix') format('embedded-opentype'),
+        url('WinslowBook-Regular.woff2') format('woff2'),
+        url('WinslowBook-Regular.woff') format('woff'),
+        url('WinslowBook-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Winslow Book';
+    src: url('WinslowBook-LightItalic.eot');
+    src: local('Winslow Book Light Italic'), local('WinslowBook-LightItalic'),
+        url('WinslowBook-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('WinslowBook-LightItalic.woff2') format('woff2'),
+        url('WinslowBook-LightItalic.woff') format('woff'),
+        url('WinslowBook-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winslow Book';
+    src: url('WinslowBook-BlackItalic.eot');
+    src: local('Winslow Book Black Italic'), local('WinslowBook-BlackItalic'),
+        url('WinslowBook-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('WinslowBook-BlackItalic.woff2') format('woff2'),
+        url('WinslowBook-BlackItalic.woff') format('woff'),
+        url('WinslowBook-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winslow Book';
+    src: url('WinslowBook-BoldItalic.eot');
+    src: local('Winslow Book Bold Italic'), local('WinslowBook-BoldItalic'),
+        url('WinslowBook-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('WinslowBook-BoldItalic.woff2') format('woff2'),
+        url('WinslowBook-BoldItalic.woff') format('woff'),
+        url('WinslowBook-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Winslow Book';
+    src: url('WinslowBook-Light.eot');
+    src: local('Winslow Book Light'), local('WinslowBook-Light'),
+        url('WinslowBook-Light.eot?#iefix') format('embedded-opentype'),
+        url('WinslowBook-Light.woff2') format('woff2'),
+        url('WinslowBook-Light.woff') format('woff'),
+        url('WinslowBook-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
